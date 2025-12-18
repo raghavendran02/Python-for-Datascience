@@ -1,0 +1,4 @@
+Welcome to the course on python
+you are learning how to accesses files in python
+files in python can be opened in read mode by default
+it can as well be opened in write and append mode
